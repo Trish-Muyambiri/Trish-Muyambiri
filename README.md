@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Patricia Muyambiri
 
-<!--
-**Trish-Muyambiri/Trish-Muyambiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Solutions Architect with a strong focus on building scalable, secure systems and driving digital transformation across cloud and hybrid environments.
 
-Here are some ideas to get you started:
+## What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Upskilling in *CI/CD* using *GitHub Actions, **Jenkins, and **GitLab CI/CD*
+- Automating infrastructure with *Terraform* for *AWS*
+- Exploring practical projects in *DevOps, **Cloud Architecture, and **Python*
+- Sharpening my technical documentation and architectural design skills
+
+## Connect With Me
+
+- [LinkedIn – Patricia Muyambiri](https://www.linkedin.com/in/patricia-muyambiri)
+- GitHub: [@Trish-Muyambiri](https://github.com/Trish-Muyambiri)
+
+---
+
+*Building, breaking, and learning—one commit at a time.*
+
